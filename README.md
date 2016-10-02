@@ -1,6 +1,6 @@
 # Resume
 
 
-|Click [here](http://rukmal.github.io/Resume/Rukmal%20Weerawarana%20-%20Resume.pdf) to view my Resume|
+|Click [here](https://github.com/andrewmahoneyf/Resume/blob/master/Resume-%20Andrew%20Mahoney-Fernandes.pdf) to view my Resume|
 |:--:|
 
